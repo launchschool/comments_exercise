@@ -1,4 +1,4 @@
-[
+export default [
   {
     "id": "4b2d74e6-7d1a-4ba3-9e95-0f52ee8ebc6e",
     "author": "Reed Fisher",
@@ -334,4 +334,4 @@
       }
     ]
   }
-]
+];
