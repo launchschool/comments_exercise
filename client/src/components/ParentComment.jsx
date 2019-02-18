@@ -1,6 +1,5 @@
 import React from 'react';
 import Comment from './Comment';
-import moment from 'moment';
 
 const ParentComment = (comment) => (
   <div className="parent-comment">
@@ -12,7 +11,7 @@ const ParentComment = (comment) => (
     />
     <div className="replies">
       {
-        comment.replies.map((reply) => <Comment {...reply} />)
+        comment.replies.map((reply) => <Comment key={reply.id} {...reply} />)
       }
     </div>
   </div>
