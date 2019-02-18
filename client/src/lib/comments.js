@@ -12,20 +12,6 @@ export default [
         "author": "Kathleen Nikolaus",
         "body": "Officia suscipit sint sint impedit nemo. Labore aut et quia quasi ut. Eos voluptatibus quidem eius delectus beatae excepturi.",
         "postedAt": 1550419941546
-      },
-      {
-        "id": "1d549a1b-4db1-4c10-9941-60c3a0c111cb",
-        "comment_id": "4b2d74e6-7d1a-4ba3-9e95-0f52ee8ebc6e",
-        "author": "Sean Bechtelar",
-        "body": "Quam ea est provident enim necessitatibus. Sint veniam sed iusto omnis eaque dolores voluptas omnis ipsa. Vero cupiditate corrupti amet.",
-        "postedAt": 1550434979501
-      },
-      {
-        "id": "1ea28899-c449-41da-9403-d22f1c71055c",
-        "comment_id": "4b2d74e6-7d1a-4ba3-9e95-0f52ee8ebc6e",
-        "author": "Norberto Sauer",
-        "body": "Minus vero hic asperiores.",
-        "postedAt": 1550419112520
       }
     ]
   },
@@ -42,34 +28,6 @@ export default [
         "author": "Vivian Adams",
         "body": "Maxime iusto quos architecto. Voluptate consequatur porro nam tenetur voluptatem amet et esse. Natus culpa eius et sunt soluta est autem. Officia aliquid saepe. Ullam accusantium explicabo perferendis reiciendis sunt. Porro et necessitatibus.",
         "postedAt": 1550486931293
-      },
-      {
-        "id": "792c0552-670d-4f0a-b40a-006f230289f8",
-        "comment_id": "8ec290c8-6b97-497d-90d7-f6329ba931a9",
-        "author": "Amalia Bartoletti",
-        "body": "Molestiae ea est. Blanditiis aspernatur hic aspernatur qui quia. Non soluta autem fuga enim ipsum iste dolor. Atque quaerat temporibus et qui non et.",
-        "postedAt": 1550493776763
-      },
-      {
-        "id": "5c1536c7-12be-48c0-912b-995a12d79c54",
-        "comment_id": "8ec290c8-6b97-497d-90d7-f6329ba931a9",
-        "author": "Sydnie Jacobi",
-        "body": "Aut nulla a sint et et et dolores. Quia perferendis officiis. Dolor a corrupti consectetur.",
-        "postedAt": 1550470739427
-      },
-      {
-        "id": "4fa8a06e-ebbc-447d-aeae-30716aeb6f31",
-        "comment_id": "8ec290c8-6b97-497d-90d7-f6329ba931a9",
-        "author": "Brennan Zulauf",
-        "body": "Nesciunt modi et consequatur quos.",
-        "postedAt": 1550486026606
-      },
-      {
-        "id": "0d824410-c57c-4a9b-9005-9d336f2ab82d",
-        "comment_id": "8ec290c8-6b97-497d-90d7-f6329ba931a9",
-        "author": "Olin Bins",
-        "body": "Neque odio in expedita veritatis aut in.",
-        "postedAt": 1550476514990
       }
     ]
   },
@@ -86,20 +44,6 @@ export default [
         "author": "Easter Luettgen",
         "body": "Eos maxime doloribus suscipit error.",
         "postedAt": 1550474829660
-      },
-      {
-        "id": "1d61008f-dfae-44f4-9c79-ebabcd26e853",
-        "comment_id": "cec529d4-a9c2-4095-b526-a923e730cc48",
-        "author": "Mabelle Bins",
-        "body": "Totam ipsum porro dolorem.",
-        "postedAt": 1550456158257
-      },
-      {
-        "id": "e563f6aa-e990-4b9f-ae1c-1f497ddc532e",
-        "comment_id": "cec529d4-a9c2-4095-b526-a923e730cc48",
-        "author": "Ivah McKenzie",
-        "body": "Nihil reiciendis et ratione provident totam rerum.",
-        "postedAt": 1550498910319
       }
     ]
   },
@@ -116,27 +60,6 @@ export default [
         "author": "Janick Boyle",
         "body": "Ipsum non ipsam.",
         "postedAt": 1550445727619
-      },
-      {
-        "id": "ab0c5798-0185-402e-a606-0a349ba04d0a",
-        "comment_id": "32ff1d16-ef8e-4491-be3c-4a4e011ad279",
-        "author": "Virginia Gleason",
-        "body": "Mollitia vel voluptas sequi ratione occaecati. Corporis aut rem at. Totam maxime veniam quia doloribus natus illum unde qui. Eaque velit laudantium.",
-        "postedAt": 1550478996601
-      },
-      {
-        "id": "d5119afa-a06a-4f92-a015-2efbdddb6550",
-        "comment_id": "32ff1d16-ef8e-4491-be3c-4a4e011ad279",
-        "author": "Mose Ratke",
-        "body": "Iste blanditiis similique consectetur dolorem. Aut sapiente non temporibus debitis dolores natus. Iusto enim quia sint ratione doloremque sapiente. Quasi maxime delectus libero sunt dolorem.",
-        "postedAt": 1550437058599
-      },
-      {
-        "id": "6231ca0a-8356-465b-8359-b9c7d92b5d46",
-        "comment_id": "32ff1d16-ef8e-4491-be3c-4a4e011ad279",
-        "author": "Mckenna Hermann",
-        "body": "Et voluptas voluptatem et autem.",
-        "postedAt": 1550485152061
       }
     ]
   },
@@ -153,20 +76,6 @@ export default [
         "author": "Tierra Mitchell",
         "body": "Quisquam voluptatibus et occaecati aut non assumenda.",
         "postedAt": 1550458752656
-      },
-      {
-        "id": "31ebf2a3-1c69-482a-a262-35a16ecf23f3",
-        "comment_id": "af3b3209-4ab1-4942-b1dc-d84260c46919",
-        "author": "Ewell Moen",
-        "body": "Et provident animi ut voluptates. Nisi excepturi consequatur ex tempora voluptas tenetur aperiam. Aspernatur omnis modi fugit ut. Doloremque inventore vel harum libero nobis blanditiis nobis nesciunt.",
-        "postedAt": 1550492237967
-      },
-      {
-        "id": "f40af8ec-c682-4c13-b824-c5f4e8d99564",
-        "comment_id": "af3b3209-4ab1-4942-b1dc-d84260c46919",
-        "author": "Dax Lind",
-        "body": "Fugiat eveniet repudiandae placeat debitis deleniti ipsam. Dolores odit inventore autem delectus in. Sed ipsa enim nesciunt suscipit nulla illo nam. Recusandae et fuga enim necessitatibus et error.",
-        "postedAt": 1550452929671
       }
     ]
   },
@@ -183,27 +92,6 @@ export default [
         "author": "Filiberto Gutkowski",
         "body": "Provident consequatur veritatis aut aut quas.",
         "postedAt": 1550464504922
-      },
-      {
-        "id": "f1b88ff0-fd4d-4cb4-91c1-af0a7f465239",
-        "comment_id": "e65a1573-3c0b-4675-a07a-b61cf9244c7a",
-        "author": "Dagmar Krajcik",
-        "body": "Voluptas autem recusandae cumque magni sit est. Pariatur autem illo aliquam consequatur ipsa voluptatibus voluptates. Sapiente doloremque nesciunt reprehenderit iusto est a nemo. Qui iure magnam ea odit at eos sit rem. Sint aperiam non est aspernatur. Culpa explicabo ut nihil placeat officiis et maiores inventore voluptates.",
-        "postedAt": 1550423087925
-      },
-      {
-        "id": "fdaafa5b-0a18-417d-8731-86e023a2af64",
-        "comment_id": "e65a1573-3c0b-4675-a07a-b61cf9244c7a",
-        "author": "Devin Kuhlman",
-        "body": "Autem modi animi similique nostrum dolore voluptatum consequatur a.",
-        "postedAt": 1550479626074
-      },
-      {
-        "id": "cc5b39c7-ef5d-4639-85af-af61a310b068",
-        "comment_id": "e65a1573-3c0b-4675-a07a-b61cf9244c7a",
-        "author": "Schuyler Daugherty",
-        "body": "Fugiat itaque repellat voluptas quaerat voluptatibus mollitia enim voluptatibus. Et numquam rerum modi nemo. Culpa odit error ullam porro et quia dolorem. Voluptatem consectetur porro minus alias officiis. Sit fugit excepturi. Necessitatibus mollitia modi consequatur ut quaerat tenetur alias error et.",
-        "postedAt": 1550497445442
       }
     ]
   },
@@ -220,20 +108,6 @@ export default [
         "author": "Annabell Roob",
         "body": "Consequatur temporibus nemo deserunt. Sed magnam aut necessitatibus facilis. Impedit est quibusdam ut deleniti et aut modi esse culpa. Voluptatem blanditiis adipisci.",
         "postedAt": 1550447953001
-      },
-      {
-        "id": "1e6344da-8043-4146-9408-946096827e0e",
-        "comment_id": "964fca5c-9b75-4f94-8545-71853caacd2c",
-        "author": "Clifford Willms",
-        "body": "Sed pariatur ex eveniet rerum et.",
-        "postedAt": 1550466659475
-      },
-      {
-        "id": "55b29370-2c74-49a5-b6df-72b5e7116489",
-        "comment_id": "964fca5c-9b75-4f94-8545-71853caacd2c",
-        "author": "Felix Pouros",
-        "body": "Ipsa aperiam expedita. Dicta accusamus nulla temporibus odit quod iusto debitis perferendis quis. Qui iste quidem. Illo facere voluptatem tempore accusantium et quo cum id maiores. Et rerum iure quos ut nemo quibusdam ullam modi deleniti.",
-        "postedAt": 1550488218665
       }
     ]
   },
@@ -250,27 +124,6 @@ export default [
         "author": "Arlo Wehner",
         "body": "Aliquam voluptas facilis non quaerat mollitia omnis ab. Distinctio reiciendis repudiandae hic enim. Ab minima id illo deserunt nihil est et natus natus.",
         "postedAt": 1550431275660
-      },
-      {
-        "id": "2ea80f08-7c72-4834-844d-c4dd5be6a368",
-        "comment_id": "0538503d-db27-4786-9ace-23e762619b07",
-        "author": "Maye Funk",
-        "body": "Vitae dolorum aspernatur dolorem. Corrupti odit enim qui fuga enim ea. Consequuntur distinctio ipsum. Molestiae rerum doloribus eligendi sed.",
-        "postedAt": 1550497294820
-      },
-      {
-        "id": "681ef9bf-79d7-422b-ac05-25d40fa6ac03",
-        "comment_id": "0538503d-db27-4786-9ace-23e762619b07",
-        "author": "Maritza Sawayn",
-        "body": "Rerum nulla magni hic iste ut voluptate quibusdam nemo odit. Enim doloribus quis rerum et. Sed ducimus mollitia delectus illum. Optio ut repudiandae repellendus.",
-        "postedAt": 1550437200904
-      },
-      {
-        "id": "2806977f-ad34-4945-86c5-1edc6cb20b21",
-        "comment_id": "0538503d-db27-4786-9ace-23e762619b07",
-        "author": "Raina Marks",
-        "body": "Vitae totam autem. Earum fugit asperiores occaecati libero labore doloribus qui. Voluptatem sapiente enim alias aspernatur repellendus ut eos natus tempore. Est sed adipisci beatae eligendi possimus est fugiat incidunt.",
-        "postedAt": 1550477608417
       }
     ]
   },
@@ -287,20 +140,6 @@ export default [
         "author": "Stephany Vandervort",
         "body": "Aliquid quibusdam rem.",
         "postedAt": 1550439285358
-      },
-      {
-        "id": "c045e388-bdca-418f-bb05-5c23f1f2c150",
-        "comment_id": "4c730547-7bf9-46af-a488-4e6aeabd9d05",
-        "author": "Abner Jenkins",
-        "body": "Explicabo ratione et quisquam laboriosam autem.",
-        "postedAt": 1550419973296
-      },
-      {
-        "id": "25f5ad7a-335e-41d0-970e-7897857170bf",
-        "comment_id": "4c730547-7bf9-46af-a488-4e6aeabd9d05",
-        "author": "Jennings O'Connell",
-        "body": "Accusantium molestiae enim id eum. Odit quia dicta non. Molestiae sint et voluptas ea qui quia ad earum magni.",
-        "postedAt": 1550426887791
       }
     ]
   },
@@ -317,20 +156,6 @@ export default [
         "author": "Timmy Kulas",
         "body": "Rerum exercitationem ea voluptate expedita. A voluptatum inventore. Modi officiis voluptate quis molestiae iste qui dolorum ab quod. Cumque tempore dolores temporibus natus reprehenderit. Ut rem quis. Omnis eligendi aut aut.",
         "postedAt": 1550446199850
-      },
-      {
-        "id": "7cdd110d-72d7-4442-a8bd-fc1bffe48599",
-        "comment_id": "f2d4a7e2-d802-47f6-b5f8-f1a1aa040cb2",
-        "author": "Shayne Feeney",
-        "body": "Sed repellendus eligendi earum.",
-        "postedAt": 1550424299691
-      },
-      {
-        "id": "47df04fb-447b-435b-8f62-6b9ee27584d1",
-        "comment_id": "f2d4a7e2-d802-47f6-b5f8-f1a1aa040cb2",
-        "author": "Jordi Denesik",
-        "body": "Voluptatem ipsa dolor voluptas.",
-        "postedAt": 1550415023853
       }
     ]
   }
