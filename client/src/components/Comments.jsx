@@ -1,17 +1,13 @@
 import React, { Component } from 'react';
-import comments from '../lib/comments';
 import ParentComment from './ParentComment';
 
 class Comments extends Component {
-  state = {
-    comments
-  };
-
   render() {
-    const parentComments = this.state.comments.map((c) => <ParentComment key={c.id} {...c}/>);
+    const parentComments = this.props.comments.map((c) => <ParentComment key={c.id} {...c}/>);
+
     return (
       <div className="comments">
-        <h2>Comments ({this.state.comments.length})</h2>
+        <h2>Comments ({this.props.comments.length})</h2>
         { parentComments }
       </div>
     );
