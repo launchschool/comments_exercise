@@ -1,10 +1,22 @@
 import React, {Component} from 'react';
 import ParentComment from './ParentComment';
+import store from '../lib/store';
 
 class Comments extends Component {
+  componentDidMount() {
+    this.unsubscribe = store.subscribe(() => this.forceUpdate());
+
+    global.fetch('/api/comments')
+      .then(response => response.json())
+      .then(comments => store.dispatch({comments, type: 'COMMENTS_RECEIVED'}));
+  };
+
+  componentWillUnmount() {
+    this.unsubscribe();
+  }
 
   render() {
-    const parentComments = this.props.comments.map((c) => {
+    const parentComments = store.getState().comments.map((c) => {
       return <ParentComment
                key={c.id}
                comment={c}
@@ -14,7 +26,7 @@ class Comments extends Component {
 
     return (
       <div className="comments">
-        <h2>Comments ({this.props.comments.length})</h2>
+        <h2>Comments ({store.getState().comments.length})</h2>
         { parentComments }
       </div>
     );

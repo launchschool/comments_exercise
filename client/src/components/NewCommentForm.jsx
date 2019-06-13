@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import store from '../lib/store';
 
 export default class NewCommentForm extends Component {
   state = {
@@ -14,8 +15,19 @@ export default class NewCommentForm extends Component {
 
   handleSubmit = (e) => {
     e.preventDefault();
-    this.props.onSubmit(this.state);
-    this.setState({author: '', body: ''})
+    let commentFields = this.state;
+
+    global.fetch(`/api/comments`, {
+      method: 'POST',
+      headers: {
+        "Content-Type": "application/json; charset=utf-8",
+      },
+      body: JSON.stringify({comment: commentFields})
+    }).then(response => response.json())
+      .then(comment => {
+        store.dispatch({comment, type: 'COMMENT_ADDED'});
+        this.setState({author: '', body: ''})
+      });
   };
 
   render() {
