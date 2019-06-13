@@ -12,7 +12,7 @@ const data = {
 
   getRepliesForComment: (id) => {
     const comments = JSON.parse(readFileSync(DATA_FILE_PATH));
-    return comments.find((c) => c.id === id).replies;
+    return comments.find((c) => c.id === id).replies.slice(1);
   },
 
   saveComment: (commentFields) => {
