@@ -15,12 +15,12 @@ app.get('/api/comments', (req, res) => {
 });
 
 app.get('/api/comment_replies', (req, res) => {
-  const comment_id = +req.params.comment_id;
+  const comment_id = req.query.comment_id;
   res.json(data.getRepliesForComment(comment_id));
 });
 
 app.post('/api/comments', (req, res) => {
-  const { comment } = req.params;
+  const comment = req.body;
   const newComment = data.saveComment(comment);
   if (newComment) {
     res.json(newComment);
